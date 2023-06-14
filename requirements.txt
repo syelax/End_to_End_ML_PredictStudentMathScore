@@ -28,3 +28,4 @@ threadpoolctl==3.1.0
 tzdata==2023.3
 Werkzeug==2.3.6
 xgboost==1.7.5
+-e .
